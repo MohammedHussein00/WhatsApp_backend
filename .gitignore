@@ -1,0 +1,4 @@
+# Ignore application settings
+appsettings.json
+bin/
+obj/
